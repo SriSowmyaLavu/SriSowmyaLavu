@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="your-banner-image-url-here" alt="Sowmya Lavu DevOps Engineer Banner" />
+</p>
+
 # 👋 Hi, I'm Sowmya Lavu!
 
 🚀 **DevOps||AWS||Azure||Terraform||Linux||Kubernetes||Docker||SonarQube||Maven||Jenkins||GitHub**
@@ -34,6 +38,9 @@ Checkmarx, Aqua Security, Veracode, Snyk, SonarQube, Twistlock
 **Tools & Collaboration:**  
 Git, Bitbucket, JIRA, Confluence, Nexus, JFrog Artifactory, Nagios, Datadog
 
+**🔭 I’m currently working:**
+
+
 
 ## 🔧 Current Focus Areas
 
@@ -43,6 +50,7 @@ Git, Bitbucket, JIRA, Confluence, Nexus, JFrog Artifactory, Nagios, Datadog
 - Enhancing observability and system reliability with **OpenTelemetry, Grafana, and Prometheus**
 - Delivering scalable, zero-touch deployment solutions on cloud-native platforms
 - Contributing to infrastructure modernization and cloud migration projects
+  
 
 
 ## 📫 Connect with Me
