@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-banner-image-url-here" alt="Sowmya Lavu DevOps Engineer Banner" />
+  <img src="https://www.dreamstime.com/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-image251835110" alt="Sowmya Lavu DevOps Engineer Banner" />
 </p>
 
 # 👋 Hi, I'm Sowmya Lavu!
