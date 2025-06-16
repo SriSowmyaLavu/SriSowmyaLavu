@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-I'm a passionate and highly skilled DevOps & Cloud Engineer with **4+ years of hands-on experience** designing, deploying, and managing secure, scalable, and automated infrastructure in **AWS, Azure, and GCP** environments. I specialize in **Infrastructure as Code (IaC)**, **CI/CD automation**, **container orchestration**, and **cloud-native deployments**. I enjoy building robust systems, improving platform resilience, and working with modern cloud-native tools to simplify operational processes and support business-critical applications.
+I'm a passionate and highly skilled DevOps & Cloud Engineer with **6+ years of hands-on experience** designing, deploying, and managing secure, scalable, and automated infrastructure in **AWS, Azure, and GCP** environments. I specialize in **Infrastructure as Code (IaC)**, **CI/CD automation**, **container orchestration**, and **cloud-native deployments**. I enjoy building robust systems, improving platform resilience, and working with modern cloud-native tools to simplify operational processes and support business-critical applications.
 
 ---
 <table>
