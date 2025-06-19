@@ -1,7 +1,13 @@
 
 # 👋 Hi, I'm Sowmya Lavu! A DevOps enthusiast!!!!!!
 
+
+
+
+
 <p align="center">
+              Stay with me, i will be creating me Git Work
+  
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="GCP"/>
@@ -24,31 +30,7 @@ I'm a passionate and highly skilled DevOps & Cloud Engineer with **6+ years of h
   <tr>
     <td>
 
-## 📌 Tech Stack
 
-**Cloud Platforms:**  
-AWS, Azure , GCP
-
-**DevOps & Automation:**  
-Terraform, Ansible, Jenkins, Bamboo, GitHub Actions, ArgoCD, Helm
-
-**Containerization & Orchestration:**  
-Docker, Kubernetes (EKS, AKS, GKE), OpenShift, Istio, Service Mesh
-
-**CI/CD & Monitoring:**  
-Jenkins, Azure DevOps, Prometheus, Grafana, CloudWatch, ELK, Splunk, OpenTelemetry
-
-**Database:**
-MS SQL, Oracle 8/10.X, Mongo, DynamoDB
-
-**Scripting & Infrastructure:**  
-Python, Bash, PowerShell, YAML, JSON, Shell
-
-**Security & DevSecOps:**  
-Checkmarx, Aqua Security, Veracode, Snyk, SonarQube, Twistlock
-
-**Tools & Collaboration:**  
-Git, Bitbucket, JIRA, Confluence, Nexus, JFrog Artifactory, Nagios, Datadog
 
 </td>
 <td>
@@ -59,14 +41,7 @@ Git, Bitbucket, JIRA, Confluence, Nexus, JFrog Artifactory, Nagios, Datadog
   </tr>
 </table>
 
-## 🔧 Current Focus Areas
 
-- Architecting and managing **multi-cloud infrastructure**
-- Automating CI/CD pipelines for containerized and microservices-based applications
-- Implementing **DevSecOps practices** with automated security scanning
-- Enhancing observability and system reliability with **OpenTelemetry, Grafana, and Prometheus**
-- Delivering scalable, zero-touch deployment solutions on cloud-native platforms
-- Contributing to infrastructure modernization and cloud migration projects
 
 ## 📫 Connect with Me
 
