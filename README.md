@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Sowmya Lavu!
+# 👋 Hi, I'm Sowmya Lavu! A DevOps enthusiast!!!!!!
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -24,12 +24,10 @@ I'm a passionate and highly skilled DevOps & Cloud Engineer with **6+ years of h
   <tr>
     <td>
 
-## 📌 My Core Technical Skills
+## 📌 Tech Stack
 
 **Cloud Platforms:**  
-AWS (EKS, EC2, S3, RDS, CloudFormation, Lambda, VPC), 
-Azure (AKS, App Services, DevOps Pipelines, ARM), 
-GCP (GKE, Cloud Build, Cloud Functions)
+AWS, Azure , GCP
 
 **DevOps & Automation:**  
 Terraform, Ansible, Jenkins, Bamboo, GitHub Actions, ArgoCD, Helm
