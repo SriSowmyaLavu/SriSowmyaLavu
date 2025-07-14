@@ -1,5 +1,6 @@
 
 # 👋 Hi, I'm Sowmya Lavu! A DevOps enthusiast!!!!!!
+                                           2x AWS Certified Solution Architect
 
 
                                           Stay with me,  I'll be creating more Git Work
