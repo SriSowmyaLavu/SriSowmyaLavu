@@ -34,7 +34,7 @@ I'm a passionate and highly skilled DevOps & Cloud Engineer with **6+ years of h
 </td>
 <td>
 
-<img src="https://media.makeameme.org/created/devops-devops-everywhere.jpg" alt="Sri Sowmya Lavu DevOps Engineer Banner" width="1000"/>
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*F3vcEm8IqJGe0v-KlOnknQ.jpeg"/>
 
 </td>
   </tr>
