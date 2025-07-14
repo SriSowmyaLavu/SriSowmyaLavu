@@ -32,10 +32,7 @@ I'm a passionate and highly skilled DevOps & Cloud Engineer with **6+ years of h
 
 
 
-</td>
-<td>
-
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*F3vcEm8IqJGe0v-KlOnknQ.jpeg"/>
+</td>                    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*F3vcEm8IqJGe0v-KlOnknQ.jpeg"/>
 
 </td>
   </tr>
